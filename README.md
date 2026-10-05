@@ -2,8 +2,6 @@ P2P File Sharing Project
 
 ## Group Members
 - Arda Değer
-- Mehmet Emre İlter 
-- Tolga Uslu 
 
 ## Platform
 macOS
